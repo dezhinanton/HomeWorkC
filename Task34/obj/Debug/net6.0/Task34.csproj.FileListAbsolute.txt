@@ -1,0 +1,15 @@
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\bin\Debug\net6.0\Task34.exe
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\bin\Debug\net6.0\Task34.deps.json
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\bin\Debug\net6.0\Task34.dll
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\bin\Debug\net6.0\Task34.pdb
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.dll
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\refint\Task34.dll
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.pdb
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+C:\Users\The Dezhins\Desktop\HomeWork\HomeWorkC\Task34\obj\Debug\net6.0\ref\Task34.dll
