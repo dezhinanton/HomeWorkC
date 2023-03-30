@@ -1,0 +1,13 @@
+﻿Console.Clear();
+double x, y, z;
+Console.Write("Введите b1: ");
+double b1 = double.Parse(Console.ReadLine()!);
+Console.Write("Введите K1: ");
+double k1 = double.Parse(Console.ReadLine()!);
+Console.Write("Введите b2: ");
+double b2 = double.Parse(Console.ReadLine()!);
+Console.Write("Введите K2: ");
+double k2 = double.Parse(Console.ReadLine()!);
+x=(b2-b1)/(k1-k2);
+y=k1*x+b1;
+Console.WriteLine($"Кординаты точки пересечения: х={x}, y={y}");
